@@ -260,7 +260,7 @@ body {
   opacity: 0;
   visibility: hidden;
   display: grid;
-  background: rgba(255, 255, 255, 0.5);
+  background: white;
   grid-template-columns: 1fr 1fr;
   position: absolute;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
